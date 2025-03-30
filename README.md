@@ -1,6 +1,8 @@
 # Weather App - Expo React Native
 
-![Weather App Screenshot](./assets/screenshot.png)
+![Weather App Screenshot](./assets/screenshotLight.jpeg)
+![Weather App Screenshot](./assets/screenshotDark.jpeg)
+![Weather App Screenshot](./assets/screenshotHistory.jpeg)
 
 A beautiful weather application built with React Native Expo that shows current weather conditions and forecasts for any city worldwide.
 
